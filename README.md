@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TanmoyDatta
 - 👀 I’m QA Enginner
-- 🌱 I’m currently learning Load Testing using Jmeter, API Testing, Mobile Automation Testing using Appium, Web Automation Testing using Selenium, Cucumber, Jenkins, Security Testing.
+- 🌱 I’m currently learning Load Testing using Jmeter, API Testing, Mobile Automation Testing using Appium, Web Automation Testing using Selenium and Cypress, Cucumber, Jenkins, Security Testing.
 - 📫 How to reach me? tonmoydatta45@gmail.com or LinkedIn
 
 <!---
