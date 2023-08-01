@@ -1,15 +1,13 @@
-<img align="center" alt="Coding"  width="1100" src="sqa-banner.png">
-
 <h1 align="center">Hi 👋, I'm Tanmoy Datta </h1>
 <h3 align="center">A passionate SQA Engineer from Bangladesh</h3>
-<img align="right" alt="Coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Fcipherhacker%2Fcipherhacker&psig=AOvVaw3PgBNKf73J4LJ2YiBu-XAU&ust=1690954712552000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCJjeta7fuoADFQAAAAAdAAAAABAR">
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/219923823-bf1ce878-c6b8-4faa-be07-93e6b1006521.gif">
 
 
 🔭 I’m currently Working on **Manual Testing**
 
 🌱 I’m currently learning **Automation Testing (Cypress And playwright)**
 
-💬 Ask me about **Software QA, Manual testing, API Tesing, Load Testing, Database, Web Automation testing(Selenium and Cypress), Mobile Automation testing(Appium), Cucumber, Jenkins, Security Testing**
+💬 Ask me about **Software QA, Manual testing, API Testing, Load Testing, Database, Web Automation testing(Selenium and Cypress), Mobile Automation testing(Appium), Cucumber, Jenkins, Security Testing**
 
 📫 How to reach me **You can send me email : tonmoydatta45@gmail.com**
 
