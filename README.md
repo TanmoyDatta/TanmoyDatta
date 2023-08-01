@@ -1,9 +1,10 @@
 <h1 align="center">Hi 👋, I'm Tanmoy Datta </h1>
-<h3 align="center">A passionate SQA Engineer from Bangladesh</h3>
+<h3 align="center">A passionate QA Engineer from Bangladesh</h3>
+<br>
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/219923823-bf1ce878-c6b8-4faa-be07-93e6b1006521.gif">
 
 
-🔭 I’m currently Working on **Manual Testing**
+🔭 I’m currently Working on **Manual Testing & Automation Testing**
 
 🌱 I’m currently learning **Automation Testing (Cypress And playwright)**
 
@@ -11,10 +12,10 @@
 
 📫 How to reach me **You can send me email : tonmoydatta45@gmail.com**
 
-
+<br>
 <h2 align="left">Skills & Proficiencies</h2>
 
-📘 Manual Testing: Analysis of Requirement, Designing & Test Planning, Writing & Reviewing Test Cases, Test Execution & Evaluation, Creating Test Report, Root Cause Analysis, Bug Reporting
+📘 Manual Testing: Analysis of Requirements, Designing & Test Planning, Writing & Reviewing Test Cases, Test Execution & Evaluation, Creating Test Report, Root Cause Analysis, Bug Reporting
 
 📙 Agile Methodology & Project Management: Jira
 
@@ -47,6 +48,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tanmoydatta&show_icons=true&locale=en" alt="tanmoydatta" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tanmoydatta&" alt="tanmoydatta" /></p>
-
+<br>
 I can efficiently contribute my skills and abilities to the organization’s growth and build my professional career. Love to learn new topics and desire to implement those in the real world from the book. In order to make the world a better place, I strive to be a person of value to my family and society.
 
