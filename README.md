@@ -6,7 +6,7 @@
 
 🔭 I’m currently Working on **Manual Testing & Automation Testing**
 
-🌱 I’m currently learning **Automation Testing (Cypress And playwright)**
+🌱 I’m currently learning **Automation Testing (Cypress)**
 
 💬 Ask me about **Software QA, Manual testing, API Testing, Load Testing, Database, Web Automation testing(Selenium and Cypress), Mobile Automation testing(Appium), Cucumber, Jenkins, Security Testing**
 
@@ -49,5 +49,5 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tanmoydatta&" alt="tanmoydatta" /></p>
 <br>
-I can efficiently contribute my skills and abilities to the organization’s growth and build my professional career. Love to learn new topics and desire to implement those in the real world from the book. In order to make the world a better place, I strive to be a person of value to my family and society.
+I can efficiently contribute my skills and abilities to the organization’s growth and build my professional career. Love to learn new topics and desire to implement those in the real world from the book. To make the world a better place, I strive to be a person of value to my family and society.
 
