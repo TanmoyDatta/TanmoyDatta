@@ -10,7 +10,7 @@
 
 💬 Ask me about **Software QA, Manual testing, API Testing, Load Testing, Database, Web Automation testing(Selenium and Cypress), Mobile Automation testing(Appium), Cucumber, Jenkins, Security Testing**
 
-📫 How to reach me **You can send me email : tonmoydatta45@gmail.com**
+📫 How to reach me **You can send me email : mrtanmoy64@gmail.com**
 
 <br>
 <h2 align="left">Skills & Proficiencies</h2>
